@@ -1,0 +1,13 @@
+@charset 'utf-8';
+
+@font-face { font-family:'Recoleta-Thin'; src: url(font/Recoleta-Thin.woff2) format('woff2'), url(font/Recoleta-Thin.woff) format('woff'); font-style:normal; font-weight:normal; }
+
+@font-face { font-family:'Recoleta-Regular'; src: url(font/Recoleta-Regular.woff2) format('woff2'), url(font/Recoleta-Regular.woff) format('woff'); font-style:normal; font-weight:normal; }
+
+@font-face { font-family:'Recoleta-Medium'; src: url(font/Recoleta-Medium.woff2) format('woff2'), url(font/Recoleta-Medium.woff) format('woff'); font-style:normal; font-weight:normal; }
+
+@font-face { font-family:'Recoleta-Light'; src: url(font/Recoleta-Light.woff2) format('woff2'), url(font/Recoleta-Light.woff) format('woff'); font-style:normal; font-weight:normal; }
+
+@font-face { font-family:'Recoleta-Bold'; src: url(font/Recoleta-Bold.woff2) format('woff2'), url(font/Recoleta-Bold.woff) format('woff'); font-style:normal; font-weight:normal; }
+
+@font-face { font-family:'NanumSquareL'; src: url(font/NanumSquareL.woff2) format('woff2'), url(font/NanumSquareL.woff) format('woff'); font-style:normal; font-weight:normal; }
