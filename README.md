@@ -11,7 +11,7 @@
 
 ### degree of participation
 - 80% (Redesign, Publishing, etc)
-- **'W CONCEPT - CHAI'의 프로모션 페이지 디자인을 참고하여 만들어진 연습용 페이지입니다.**
+- **'W CONCEPT - CHAI'의 프로모션 페이지 디자인을 참고하여 만들어졌음을 .**
 
 <br>
 copyright (c) 2020 Ji Hye LEE
