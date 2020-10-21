@@ -3,6 +3,10 @@
 /**** basic ****/
 body { margin:0; font-family: 'Noto Sans KR', sans-serif; font-weight:300; background-color:#fffbf8; }
 
+::selection { background-color:#eb5e68; color:#fff; }
+::-moz-selection { background-color:#eb5e68; color:#fff; }
+::-webkit-selection { background-color:#eb5e68; color:#fff; }
+
 
 /**** PC ****/
 /*** container ***/
