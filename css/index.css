@@ -72,7 +72,7 @@ body { margin:0; font-family: 'Noto Sans KR', sans-serif; font-weight:300; backg
 
 
 /**** Tablet ****/
-@media (max-width:1400px) {
+@media (max-width:1280px) {
     /** header **/
     .container header { background:#fbdfd9 url(../images/pad-headerbgi.png) no-repeat 50% 0; height:1029px; }
         .container header img { display:block; margin:0 auto; }
