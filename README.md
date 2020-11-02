@@ -6,6 +6,9 @@
 - PC 크롬 브라우저 (1920 x 1080), 768 x 1024 사이즈의 태블릿, 375 x 812 사이즈의 모바일에 최적화되어 있습니다.
 - 비상업적 용도로 만들어진 포트폴리오 페이지입니다.
 
+### available page
+- [프로모션 페이지](https://absolutelyfullycapable.github.io/gentle-monster)
+
 ### production period
 - 2020.07.21 - 2020.07.27
 
